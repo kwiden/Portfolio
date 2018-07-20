@@ -1,6 +1,4 @@
-# portfolio
-
-## projects
+# Projects
 
 ### VEX V5
 
