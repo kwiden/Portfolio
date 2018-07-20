@@ -11,9 +11,7 @@ Due to the battery chemistry that we chose (Li-Ion), the battery for the new V5 
 [Click here](https://www.vexrobotics.com/v5-architecture.html) to learn more tech specs about the system and my products - see Controller and Battery sections
 
 Purchasing pages for products:
-
-[Controller](https://www.vexrobotics.com/vexedr/products/v5-products/276-4820.html)
-
+[Controller](https://www.vexrobotics.com/vexedr/products/v5-products/276-4820.html) || 
 [Battery](https://www.vexrobotics.com/vexedr/products/v5-products/276-4811.html)
 
 ### Coolest University Project : Automated Target Detection
@@ -26,7 +24,7 @@ note: The problem was given to us in the context of a scenario where aliens are 
 
 ### FIRST Robotics Competition
 
-[2017 Code](https://github.com/FRC1296/RhsRobot2017)
+[2017 Code](https://github.com/FRC1296/RhsRobot2017) || 
 [2018 Code](https://github.com/FRC1296/RhsRobot2018)
 
 For the past two years I have been a lead software mentor for Team 1296 located in Rockwall, TX. Students code in C++ using a framework created by a team member a few years back. Under my instruction students learn about programming syntax, state machines, breaking down problems, various sensors, CAN bus, and PID control loops. The code in 2017 & 2018 is predominantly student code written under my supervision. The skills that students have learned while on the software team have prepared them to take on engineering internships while still in high school. 
