@@ -33,10 +33,14 @@ This project was using a camera and a USB foam missile launcher to hit a target 
 
 note: The problem was given to us in the context of a scenario where aliens are invading, and their weakness is foam tipped darts. Wanting to have fun with the video, I turned this scenario and our footage into a trailer for the fictional movie "MP-3" (title of the lab).
 
-
+**Other University Projects of Interest:**
+* [FPGA SNES Emulator](https://youtu.be/BFT52DaeWSQ)
+* [Quadcopter Controls Lab using FPGA and VHDL](https://youtu.be/29ENLdpz1bc)
+* [No video] "Mars Rover" - Hacked Roomba with sensors navigates an obstacle field, written in C on an Atmega128 board
+* [No video] "Bluetooth speaker" - Transfer audio on one FPGA via bluetooth to a paired FPGA and output to speaker
 
 ### Lets Learn Programming
 
-(Project Page)[https://kwiden.github.io/LetsLearnProgramming/]
+[Project Page](https://kwiden.github.io/LetsLearnProgramming/)
 
 My virtual classroom for teaching robotics students how to program _for_ FIRST robotics. The objective is to take a student with 0 programming knowledge and train them to mostly proficient within ~3 months. A large undertaking, the project is constantly being built and improved upon. Some lessons are still "under construction" and others need to be updated as the tools we use change each year. 
