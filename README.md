@@ -4,7 +4,7 @@
 
 While working at VEX Robotics, I was involved in the creation of VEX V5 - primarily the controller and the battery.
 
-![IMAGE](controller_1_1.jpg)
+![IMAGE](controller_1_1.jpg)  ![IMAGE](battery.jpg)
 
 The controller is similar to a typically gaming controller with the addition of a screen. The controller utilizes various communication protocols: SPI, I2C, UART. Additionally the controller includes monitoring digital and analog inputs, controlling a small motor with PWM, battery monitoring, and running and managing the GUI. As a creative type, I overhauled the UI design to be easier to navigate and more user friendly. My improvements are being implemented in other product lines. 
 
