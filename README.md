@@ -23,9 +23,9 @@ Purchasing pages for products:
 [2017 Code](https://github.com/FRC1296/RhsRobot2017) || 
 [2018 Code](https://github.com/FRC1296/RhsRobot2018)
 
-For the past two years I have been a lead software mentor for Team 1296 located in Rockwall, TX. Students code in C++ using a framework created by a team member a few years back. Under my instruction students learn about programming syntax, state machines, breaking down problems, various sensors, CAN bus, and PID control loops. The code in 2017 & 2018 is predominantly student code written under my supervision. The skills that students have learned while on the software team have prepared them to take on engineering internships while still in high school. 
+For the past two years I have been a lead software mentor for Team 1296 located in Rockwall, TX. Students code in C++ using a framework created by a team member a few years back. Under my instruction students learn about programming syntax, state machines, breaking down problems, various sensors, CAN bus, and PID control loops. In 2017 the students learned how to use a PIXY Camera to vision track specific locations on the field. The code in 2017 & 2018 is predominantly student code written under my supervision. The skills that students have learned while on the software team have prepared them to take on engineering internships while still in high school. 
 
-
+[2018 Autonomous Demonstration](https://youtu.be/ZxWXHuU3tkM) - For 2018, the locations where the robot must place the yellow cubes are randomized at the beginning of each match. The robot recieves the locations from the field at the beginning of the match and uses that information to identify the path it will take. The robot uses encoders, gyros, current sensing, hall effect sensors, and bump sensors to navigate its surrounding and know its current state. 
 
 ### Coolest University Project : Automated Target Detection (2015)
 
