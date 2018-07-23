@@ -48,7 +48,5 @@ note: The problem was given to us in the context of a scenario where aliens are 
 
 My virtual classroom for teaching robotics students how to program _for_ FIRST robotics. The objective is to take a student with 0 programming knowledge and train them to mostly proficient within ~3 months. A large undertaking, the project is constantly being built and improved upon. Some lessons are still "under construction" and others need to be updated as the tools we use change each year. 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://youtu.be/BFT52DaeWSQ" target="_blank"><img src=controller_1_1.jpg
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
