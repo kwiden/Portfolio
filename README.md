@@ -1,6 +1,6 @@
 # Projects
 
-### VEX V5 (2016 - Present)
+### VEX V5 (2016 - 2018)
 
 While working at VEX Robotics, I was involved in the creation of VEX V5 - primarily the controller and the battery.
 
@@ -18,12 +18,12 @@ Purchasing pages for products:
 
 
 
-### FIRST Robotics Competition (2017 - Present)
+### FIRST Robotics Competition (2017 & 2018)
 
 [2017 Code](https://github.com/FRC1296/RhsRobot2017) || 
 [2018 Code](https://github.com/FRC1296/RhsRobot2018)
 
-For the past two years I have been a lead software mentor for Team 1296 located in Rockwall, TX. Students code in C++ using a framework created by a team member a few years back. Under my instruction students learn about programming syntax, state machines, breaking down problems, various sensors, CAN bus, and PID control loops. In 2017 the students learned how to use a PIXY Camera to vision track specific locations on the field. The code in 2017 & 2018 is predominantly student code written under my supervision. The skills that students have learned while on the software team have prepared them to take on engineering internships while still in high school. 
+For the 2017 and 2018 seasons, I was a lead software mentor for Team 1296 located in Rockwall, TX. Students coded in C++ using a framework created by a team member a few years back. Under my instruction students learned about programming syntax, state machines, breaking down problems, various sensors, CAN bus, and PID control loops. In 2017 the students learned how to use a PIXY Camera to vision track specific locations on the field. The code in 2017 & 2018 is predominantly student code written under my supervision. The skills that students have learned while on the software team have prepared them to take on engineering internships while still in high school. 
 
 [2018 Autonomous Demonstration](https://youtu.be/ZxWXHuU3tkM) - For 2018, the locations where the robot must place the yellow cubes are randomized at the beginning of each match. The robot recieves the locations from the field at the beginning of the match and uses that information to identify the path it will take. The robot uses encoders, gyros, current sensing, hall effect sensors, and bump sensors to navigate its surrounding and know its current state. 
 
@@ -31,7 +31,7 @@ For the past two years I have been a lead software mentor for Team 1296 located 
 
 [Project Video](https://youtu.be/f3tUscQhJMU)
 
-This project was using a camera and a USB foam missile launcher to hit a target for my capstone embedded systems course. Connecting the camera to the FPGA and reading its contents were a whole project on their own, and we used that project as a spring board for this one. This project was surprisingly simple, once we were able to map out the hardware locations of the video steam to be read by software and get our USB driver working. We used what's called a state-machine to detect the target. Which section of the frame the target was located in determined what command we sent to the launcher (up/down/left/right/up-left/down-left.../fire). This was a really fun project to work on, although I'm not sure how I feel about writing programs for Kernal space.
+This project was using a camera and a USB foam missile launcher to hit a target for my capstone embedded systems course. Connecting the camera to the FPGA and reading its contents were a whole project on their own, and we used that project as a spring board for this one. This project was surprisingly simple, once we were able to map out the hardware locations of the video steam to be read by software and get our USB driver working. We used a state-machine to detect the target. The location of the target in frame determined what command we sent to the launcher (up/down/left/right/up-left/down-left.../fire). This was a really fun project to work on, although I'm not sure how I feel about writing programs for Kernal space.
 
 note: The problem was given to us in the context of a scenario where aliens are invading, and their weakness is foam tipped darts. Wanting to have fun with the video, I turned this scenario and our footage into a trailer for the fictional movie "MP-3" (title of the lab).
 
