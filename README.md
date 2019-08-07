@@ -2,5 +2,5 @@
 
 [Projects](projects.md)
 
-[Articles](articles.md)
+[Bylines](bylines.md)
 
