@@ -2,7 +2,7 @@
 
 ### Power Racing Series: Lemon-Aid
 
-After racing for a friend in May of 2019, I built my first electric go kart for the Power Racing Series (with a teammate). 
+After racing for a friend in May of 2019, I built my first electric go kart for the Power Racing Series. 
 
 ![IMAGE](20190721_202615_exported_stabilized_2548770858921471411.gif)
 
