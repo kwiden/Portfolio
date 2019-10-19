@@ -13,3 +13,4 @@ Besides the engineering stuff, I have a [very cute dog](https://www.instagram.co
 
 [Bylines](bylines.md)
 
+[Bio](bio.md) 
