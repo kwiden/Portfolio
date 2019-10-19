@@ -2,7 +2,11 @@
 
 ### Power Racing Series: Lemon-Aid
 
-After racing for a friend in May of 2019, I built my first electric go kart for the Power Racing Series (with a teammate). Our citrus-ambulance car, dubbed Lemon-Aid, raced at Maker Faire events in Detroit, Milwaukee, and Orlando.
+After racing for a friend in May of 2019, I built my first electric go kart for the Power Racing Series (with a teammate). 
+
+![IMAGE](20190721_202615_exported_stabilized_2548770858921471411.gif)
+
+Our citrus-ambulance car, dubbed Lemon-Aid, raced at Maker Faire events in Detroit, Milwaukee, and Orlando.
 Learn more about the process [here](https://docs.google.com/presentation/d/1cpfuDuD8gQ2Huog38bvnKr8jS7B6gxp6zHzXEAm8PKs/edit?usp=sharing).
 
 ### VEX V5 (2016 - 2018)
