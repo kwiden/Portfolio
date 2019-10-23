@@ -18,6 +18,9 @@ Here are some "publications" that I have written or contributed to:
 [Guide to FRC Scouting](https://www.chiefdelphi.com/t/your-scouts-hate-scouting-and-your-data-is-bad-heres-why/352340)
 - A break-down of the often over-looked role of scouting on robotics teams, highlighting common problems that teams face. I address the symptoms and their root causes as well as provide tangible solutions.
 
+Gettin' Picky: A Guide to Alliance Selection, [Part 1: The Picklist](https://www.chiefdelphi.com/t/gettin-picky-a-guide-to-alliance-selections-part-1-the-picklist/361425), [Part 2: Alliance Selection](https://www.chiefdelphi.com/t/gettin-picky-part-2-alliance-selection/361998)
+- A series of co-authored posts about how to analyze data and make the best decisions possible for teams during the draft period of a robotics competition.
+
 [Guide to FRC Programming](https://kwiden.github.io/LetsLearnProgramming/)
 - Also listed in projects. A tutorial series that takes students from 0 to Robot. By allowing students to learn at their own pace, I can better use my time as an instructor answering questions.
 
