@@ -1,5 +1,4 @@
 # Bylines
-[Back to Main](README.md)
 
 Here are some "publications" that I have written or contributed to:
 
