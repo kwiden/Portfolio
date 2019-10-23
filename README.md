@@ -17,4 +17,4 @@ Besides the engineering stuff, I have a [very cute dog](https://www.instagram.co
 
 [Speaker Bio](bio.md) 
 
-[LinkedIn](www.linkedin.com/in/kwiden)
+[LinkedIn](https://www.linkedin.com/in/kwiden)
