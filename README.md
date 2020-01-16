@@ -1,5 +1,7 @@
 # Q&A With Katie
-I'm a computer engineer with experience in embedded systems and robotics. Currently I work at [Orro](www.getorro.com). Previously, I worked on "sense and avoid" systems that prevent mid-aid collisions between industrial drones and other aircraft at [Iris Automation](https://www.irisonboard.com/)and on educational products used by a million students worldwide at [VEX Robotics](https://www.vexrobotics.com/).
+You have questions, I have answers. Typically it goes the other way around.
+
+I'm a computer engineer with experience in embedded systems and robotics. Currently I work at [Orro](www.getorro.com). Previously, I worked on "sense and avoid" systems that prevent mid-aid collisions between industrial drones and other aircraft at [Iris Automation](https://www.irisonboard.com/) and on educational products used by a million students worldwide at [VEX Robotics](https://www.vexrobotics.com/).
 
 I've been involed in FIRST Robotics since high school, starting with Team 1675 in Milwaukee, WI. After graduating high school, I went to Iowa State University and co-founded FRC 3928. I mentored 3928 for three years before taking a break to focus on graduating. After graduation I moved to Texas and mentored FRC 1296 for two years. After a move to California in 2018, I met and joined my local team, FRC 253.
 
