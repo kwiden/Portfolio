@@ -17,7 +17,7 @@ Besides the engineering stuff, I have a [very cute dog](https://www.instagram.co
 
 
 ### Check It Out
-[Resume](Resume_.pdf)
+<!-- [Resume](Resume_.pdf)
 
 [Projects](projects.md)
 
