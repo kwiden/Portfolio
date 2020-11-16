@@ -1,7 +1,7 @@
 # Katie Widen
 "Widen your horizons" - A cheesy pun
 
-### What do you do?
+### Who is this lady?
 I'm a computer engineer with experience in embedded systems and robotics. Currently I work at [NVIDIA](www.nvidia.com). Previous places I've been have [Orro](www.getorro.com) (smart home products), [Iris Automation](https://www.irisonboard.com/)(autonomous drone collision avoidance), and [VEX Robotics](https://www.vexrobotics.com/)(educational robotics).
 
 ### Wait, did you say robotics?
