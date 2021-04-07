@@ -2,7 +2,7 @@
 "Widen your horizons" - A cheesy pun
 
 ### Who is this lady?
-I'm a computer engineer with experience in embedded systems and robotics. Currently I work at [NVIDIA](www.nvidia.com). Previous places I've been have [Orro](www.getorro.com) (smart home products), [Iris Automation](https://www.irisonboard.com/)(autonomous drone collision avoidance), and [VEX Robotics](https://www.vexrobotics.com/)(educational robotics).
+I'm a computer engineer with experience in embedded systems and robotics. Currently I work at [NVIDIA](www.nvidia.com). Previous places I've been have [Orro](www.getorro.com) (smart home products), [Iris Automation](https://www.irisonboard.com/) (autonomous drone collision avoidance), and [VEX Robotics](https://www.vexrobotics.com/) (educational robotics).
 
 ### Wait, did you say robotics?
 I've been involed in competitive robotics since high school, starting with FIRST Robotics Team 1675 in Milwaukee, WI. After graduating high school, I went to Iowa State University and co-founded FRC 3928. I mentored 3928 for three years before taking a break to focus on graduating and moved my efforts over to FTAing for FTC. After graduation I moved to Texas and mentored FRC 1296 for two years as well as volunteering at VEX events. After a move to California in 2018, I met and joined my local team, FRC 253. I've also volunteered at FTC events and VEX Worlds. 
