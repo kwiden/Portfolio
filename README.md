@@ -15,7 +15,7 @@ I've added a lot to the robotics community - go look at my bylines for some exam
 Recently I fell in love with competing in [Power Racing Series](http://www.powerracingseries.org/) where competitors build and race electric go-karts. I share about my first build, "Lemon Aid," in the projects section.
 
 ### Beyond tech?
-Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting, [quilting](www.etsy.com/shop/littledogrobotics) and [playing the harp](www.facebook.com/KatieOnHarp).
+Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting, [quilting](http://www.etsy.com/shop/littledogrobotics) and [playing the harp](http://www.facebook.com/KatieOnHarp).
 
 
 ### Check It Out
