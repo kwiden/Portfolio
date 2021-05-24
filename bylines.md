@@ -33,4 +33,4 @@ A series of co-authored posts about how to analyze data and make the best decisi
 ## Misc
 [Random Acts of Inspiration](https://github.com/kwiden/RandomActsOfInspiration) 
  - An introductory python lab where participants create a random saying generator
- - Presented at a hackathon hosted by[Girls in Tech - SF](https://sanfrancisco.girlsintech.org/)
+ - Presented at a hackathon hosted by [Girls in Tech - SF](https://sanfrancisco.girlsintech.org/)
