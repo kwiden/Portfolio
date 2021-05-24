@@ -6,7 +6,7 @@ In my time at Iris Automation I worked on our core product, [Casia](https://www.
 
 ![IMAGE](https://www.irisonboard.com/wp-content/uploads/2019/04/untitled-24-of-34-2.jpg)
 
-One of my most notable projects was our external watchdog system. An STM32 monitored the overall health of our system via serial communication. As the "last line of defense," the external watchdog requires being robust and fail-proof. In addition to the system design and firmware for the watchdog, I was reponsible for the ROS and linux-side code that interfaced with it. This included writing connections and interpreters in C++, Python, and Bash.
+One of my most notable projects was our external watchdog system. An STM32 monitored the overall health of our system via serial communication. As the "last line of defense," the external watchdog requires being robust and fail-proof. In addition to the system design and firmware for the watchdog, I was reponsible for the ROS and linux-side code that interfaced with it. This included writing connections and interpreters in C++, Python, and Bash. Following implementation I instruction field personnel in using and troubleshooting with the watchdog.
 
 ### Power Racing Series: Lemon-Aid (2019)
 
