@@ -75,6 +75,8 @@ Make it pretty:
 
 Lots of test drives, adjusting gearing and finding electronics gremlins
 
+![image](/imgs/20190721_202615_exported_stabilized_2548770858921471411.gif)
+
 Ship our gokart + 2 others top Detroit
 
 ![image](https://user-images.githubusercontent.com/8009699/119391700-869b6280-bc83-11eb-833c-3bd72fe49e32.png)
