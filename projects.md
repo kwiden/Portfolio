@@ -15,8 +15,8 @@ After racing for a friend in May of 2019, I built my first electric go kart for 
 ![IMAGE](20190721_202615_exported_stabilized_2548770858921471411.gif)
 
 Our citrus-ambulance car, dubbed Lemon-Aid, raced at Maker Faire events in Detroit, Milwaukee, and Orlando.
-Read the log [here](PowerWheels.md)
-Or see powerpoint slides [here](https://docs.google.com/presentation/d/1cpfuDuD8gQ2Huog38bvnKr8jS7B6gxp6zHzXEAm8PKs/edit?usp=sharing).
+
+Read the log [here](PowerWheels.md) or view powerpoint slides [here](https://docs.google.com/presentation/d/1cpfuDuD8gQ2Huog38bvnKr8jS7B6gxp6zHzXEAm8PKs/edit?usp=sharing).
 
 ### VEX V5 (2016 - 2018)
 
