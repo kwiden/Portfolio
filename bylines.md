@@ -29,3 +29,8 @@ A series of co-authored posts about how to analyze data and make the best decisi
 - Also listed in projects. A tutorial series that takes students from 0 to Robot. By allowing students to learn at their own pace, I can better use my time as an instructor answering questions.
 
 [Back to Main](README.md)
+
+## Misc
+[Random Acts of Inspiration](https://github.com/kwiden/RandomActsOfInspiration) 
+ - An introductory python lab where participants create a random saying generator
+ - Presented at a hackathon hosted by[Girls in Tech - SF](https://sanfrancisco.girlsintech.org/)
