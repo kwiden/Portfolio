@@ -2,7 +2,7 @@
 "Widen your horizons" - A cheesy pun
 
 ### Who is this lady?
-I am currently a grad student at San Jose State University pursueing a masters in teaching. Additionally, I'm a computer engineer with experience in embedded systems and robotics. I worked one some cool things like drones ([Iris Automation](https://www.irisonboard.com/)), graphic cards (NVIDIA), and classroom robotics ([VEX Robotics](https://www.vexrobotics.com/)).
+I am currently an Engineering and Computer Science teacher. I recently graduated from San Jose State University with a masters in teaching. Additionally, I'm a computer engineer with experience in embedded systems and robotics. I worked one some cool things like drones ([Iris Automation](https://www.irisonboard.com/)), graphic cards (NVIDIA), and classroom robotics ([VEX Robotics](https://www.vexrobotics.com/)).
 
 
 ### Wait, did you say robotics?
@@ -14,7 +14,7 @@ I've added a lot to the robotics community - go look at my bylines for some exam
 Recently I fell in love with competing in [Power Racing Series](http://www.powerracingseries.org/) where competitors build and race electric go-karts. I share about my first build, "Lemon Aid," in the projects section.
 
 ### Beyond tech?
-Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting, [quilting](http://www.etsy.com/shop/littledogrobotics) and [playing the harp](http://www.facebook.com/KatieOnHarp).
+Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting, quilting and playing the harp.
 
 
 ### Check It Out
