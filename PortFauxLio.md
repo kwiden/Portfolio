@@ -32,4 +32,9 @@ Stuff I've drawn
 2020 Gatsby Vinyl<br>
 <img src="imgs/20200220_120611.jpg" alt="drawing" width="500"/>
 
+2021 Blip Logo & Vinyl
+
+2022 Blip and Tantrum Drawings + Merch
+
+2021-2023 Blip & Tantrum Jerseys
 
