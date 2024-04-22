@@ -26,7 +26,7 @@ A series of co-authored posts about how to analyze data and make the best decisi
 - [Part 3: Getting Picked](https://www.ewcp.org/resources/12-gettin-picky-part-3-getting-picked)
 
 [Guide to FRC Programming](https://kwiden.github.io/LetsLearnProgramming/)
-- Also listed in projects. A tutorial series that takes students from 0 to Robot. By allowing students to learn at their own pace, I can better use my time as an instructor answering questions.
+- Also listed in projects. A tutorial series that takes students from "0 to Robot". By allowing students to learn at their own pace, I can better use my time as an instructor answering questions.
 
 [The Shop Dog Effect](https://www.ewcp.org/resources/13-the-shop-dog-effect)
 - A satirical article, described as "a post that promotes team dogs, memes, stats, and points out its own bias while explicitly warning the reader about them."
