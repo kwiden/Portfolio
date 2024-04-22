@@ -2,7 +2,7 @@
 "Widen your horizons" - A cheesy pun
 
 ### Who is this lady?
-I am currently an Engineering and Computer Science teacher. I recently graduated from San Jose State University with a masters in teaching. Additionally, I'm a computer engineer with experience in embedded systems and robotics. I worked one some cool things like drones ([Iris Automation](https://www.irisonboard.com/)), graphic cards (NVIDIA), and classroom robotics ([VEX Robotics](https://www.vexrobotics.com/)).
+I am currently an Engineering and Computer Science teacher. I graduated from San Jose State University with a masters in teaching. Additionally, I'm a computer engineer with experience in embedded systems and robotics. I worked one some cool things like drones ([Iris Automation](https://www.irisonboard.com/)), graphic cards (NVIDIA), and classroom robotics ([VEX Robotics](https://www.vexrobotics.com/)).
 
 
 ### Wait, did you say robotics?
