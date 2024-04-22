@@ -4,8 +4,8 @@ Here are some "publications" that I have written or contributed to:
 
 ## Work Related
 
-[Girl Powered](https://www.girlpowered.com/why-girl-powered/) 
-- While at VEX Robotics, I was part of a team that created and maintained the Girl Powered initiative. Much of the copy on this page is my work.
+[Girl Powered] 
+- While at VEX Robotics, I was part of a team that created and maintained the Girl Powered initiative. I wrote copy, created programming workshops, and participated in events as a speaker and mentor.
 
 [Iris Blog Post](https://www.irisonboard.com/2019/04/09/educational-robotics-iris-and-you/)
 - Blog post that describes my time mentoring while at Iris, shared on the company blog.
