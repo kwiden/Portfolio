@@ -11,7 +11,7 @@ I've been involed in competitive robotics since high school, starting with FIRST
 I've added a lot to the robotics community - go look at my bylines for some examples.
 
 ### Any other hobbies?
-Recently I fell in love with competing in [Power Racing Series](http://www.powerracingseries.org/) where competitors build and race electric go-karts. I share about my first build, "Lemon Aid," in the projects section.
+In 2019, I fell in love with competing in [Power Racing Series](http://www.powerracingseries.org/) where competitors build and race electric go-karts. I share about my first build, "Lemon Aid," in the projects section. I also help out the Battlebots team, [Seems Reasonable](https://seemsreasonable.shop/) with the robots Tantrum and Blip.
 
 ### Beyond tech?
 Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting, quilting and playing the harp.
